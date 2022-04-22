@@ -1,0 +1,24 @@
+c:\users\familia\documents\visual studio 2012\Projects\TI\TI\bin\Debug\TI.exe.config
+c:\users\familia\documents\visual studio 2012\Projects\TI\TI\bin\Debug\TI.exe
+c:\users\familia\documents\visual studio 2012\Projects\TI\TI\bin\Debug\TI.pdb
+c:\users\familia\documents\visual studio 2012\Projects\TI\TI\obj\Debug\TI.csprojResolveAssemblyReference.cache
+c:\users\familia\documents\visual studio 2012\Projects\TI\TI\obj\Debug\TI.Properties.Resources.resources
+c:\users\familia\documents\visual studio 2012\Projects\TI\TI\obj\Debug\TI.csproj.GenerateResource.Cache
+c:\users\familia\documents\visual studio 2012\Projects\TI\TI\obj\Debug\TI.exe
+c:\users\familia\documents\visual studio 2012\Projects\TI\TI\obj\Debug\TI.pdb
+c:\users\familia\documents\visual studio 2012\Projects\TI\TI\obj\Debug\TI.formMenu.resources
+c:\users\familia\documents\visual studio 2012\Projects\TI\TI\obj\Debug\TI.formJogo.resources
+C:\Users\Familia\Documents\Visual Studio 2012\Projects\TI\TI\obj\Debug\TI.FormResultado.resources
+C:\Users\518184\Desktop\TI\TI\bin\Debug\TI.exe.config
+C:\Users\518184\Desktop\TI\TI\obj\Debug\TI.exe
+C:\Users\518184\Desktop\TI\TI\obj\Debug\TI.pdb
+C:\Users\518184\Desktop\TI\TI\bin\Debug\TI.exe
+C:\Users\518184\Desktop\TI\TI\bin\Debug\TI.pdb
+C:\Users\518184\Desktop\TI\TI\obj\Debug\TI.csprojResolveAssemblyReference.cache
+C:\Users\518184\Desktop\TI\TI\obj\Debug\TI.formMenu.resources
+C:\Users\518184\Desktop\TI\TI\obj\Debug\TI.formJogo.resources
+C:\Users\518184\Desktop\TI\TI\obj\Debug\TI.FormResultado.resources
+C:\Users\518184\Desktop\TI\TI\obj\Debug\TI.Properties.Resources.resources
+C:\Users\518184\Desktop\TI\TI\obj\Debug\TI.csproj.GenerateResource.Cache
+E:\TI\TI\obj\Debug\TI.exe
+E:\TI\TI\obj\Debug\TI.pdb
